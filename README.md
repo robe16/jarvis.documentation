@@ -2,7 +2,7 @@
 
 Design documentation to compliment Jarvis service modules.
 
-This repository is used for documenting the end to end solution (via the Wiki) and managing the project (via the Projects sections).
+This repository is used for documenting the end to end solution (via the Wiki) and managing the project (via the Projects section).
 
 Links to individuals repositories as follows:
 * [Webserver](https://github.com/robe16/jarvis.webserver)
