@@ -11,3 +11,4 @@ Links to individuals repositories as follows:
 * [Xbox One](https://github.com/robe16/jarvis.xbox_one)
 * [Nest](https://github.com/robe16/jarvis.nest)
 * [News](https://github.com/robe16/jarvis.news)
+* [Weather](https://github.com/robe16/jarvis.weather)
