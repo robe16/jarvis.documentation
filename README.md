@@ -15,6 +15,7 @@ Services
 * [Virgin Media (TiVO)](https://github.com/robe16/jarvis.virginmedia_tivo)
 * [Xbox One](https://github.com/robe16/jarvis.xbox_one)
 * [Nest](https://github.com/robe16/jarvis.nest)
+* [iCloud](https://github.com/robe16/jarvis.icloud)
 * [News](https://github.com/robe16/jarvis.news)
 * [Weather](https://github.com/robe16/jarvis.weather)
 * [TVListings](https://github.com/robe16/jarvis.tvlistings)
